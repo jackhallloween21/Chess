@@ -1,0 +1,15 @@
+body {
+    background-color: #111;    
+}
+
+#board {
+    font-size: 27px;
+    margin: auto;
+    height: 304px;
+    width: 304px;
+    display: grid;
+    grid-template-columns: 
+    1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows:
+    1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
