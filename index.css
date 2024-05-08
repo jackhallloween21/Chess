@@ -5,8 +5,8 @@ body {
 #board {
     font-size: 27px;
     margin: auto;
-    height: 304px;
-    width: 304px;
+    height: 500px;
+    width: 500px;
     display: grid;
     grid-template-columns: 
     1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
